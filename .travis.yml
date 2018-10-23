@@ -14,4 +14,4 @@ cache:
   - $HOME/.gradle/wrapper/
 before_script:
 script:
-- ./gradlew buildDebug
+- ./gradlew assembleDebug
